@@ -1,0 +1,7 @@
+#conversationDiv.hidden {
+     visibility: hidden;
+}
+
+#conversationDiv.visible {
+     visibility: visible;
+}
